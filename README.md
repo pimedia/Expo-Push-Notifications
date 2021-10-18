@@ -5,5 +5,6 @@ You need to install expo-notifications package for this app. The expo-notificati
 
 You can install expo-notifications by running followign command:
 ````
-```expo install expo-notifications```
+expo install expo-notifications
+
 ````
